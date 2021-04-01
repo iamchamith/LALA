@@ -1,0 +1,217 @@
+{
+  "response": {
+    "items": "719",
+    "current": "1",
+    "last": "360",
+    "listings": [
+      {
+        "id": "12P0168",
+        "officeId": "1",
+        "officeName": "Agentbox Realty",
+        "type": "Lease",
+        "status": "Leased",
+        "marketingStatus": "Leased",
+        "hiddenListing": false,
+        "offMarketListing": false,
+        "method": "",
+        "webLink": "https://sandbox1.agentboxcrm.com.au/12P0168",
+        "listedDate": "",
+        "expiryDate": "",
+        "auctionDate": "",
+        "timezone": "",
+        "auctionVenue": "",
+        "eoiClosingDate": "",
+        "availableDate": "",
+        "onMarketDate": "",
+        "expectedOnMarketDate": "",
+        "leasedDate": "",
+        "bond": "",
+        "displayPrice": "$1,400",
+        "soldDate": "",
+        "property": {
+          "id": "15",
+          "type": "Residential",
+          "category": "Apartment",
+          "name": "",
+          "newConstruction": false,
+          "address": {
+            "streetAddress": "Jan-22 Addison Road",
+            "levelNum": "",
+            "lotNum": "",
+            "unitNum": "",
+            "streetNum": "Jan-22",
+            "streetName": "Addison",
+            "streetType": "Road",
+            "suburb": "Manly",
+            "state": "NSW",
+            "postcode": "2095",
+            "country": "Australia",
+            "region": "Northern Beaches",
+            "hideAddress": false
+          },
+          "location": {
+            "lat": "-33.80733109",
+            "long": "151.28404236"
+          },
+          "bedrooms": "4",
+          "bathrooms": "3",
+          "totalParking": "2",
+          "landArea": {
+            "value": "",
+            "unit": ""
+          },
+          "landSizeText": "",
+          "buildingArea": {
+            "value": "",
+            "unit": "sqm"
+          }
+        },
+        "mainHeadline": "Waterfront Executive-Standard 4-bedroom Apartment",
+        "firstCreated": "",
+        "lastModified": "2020-10-30T16:45:08+11:00",
+        "links": {
+          "self": "https://sandbox1.agentboxcrm.com.au/admin/api/listings/12P0168?version=2"
+        },
+        "inspectionType": "",
+        "outgoings": {
+          "landTax": {
+            "value": "0",
+            "period": ""
+          },
+          "councilRates": {
+            "value": "0",
+            "period": ""
+          },
+          "waterRates": {
+            "value": "0",
+            "period": ""
+          },
+          "strataAdmin": {
+            "value": "0",
+            "period": ""
+          },
+          "strataSinking": {
+            "value": "0",
+            "period": ""
+          },
+          "strataTotal": {
+            "value": "0",
+            "period": "quarter"
+          },
+          "otherOutgoings": {
+            "value": "0",
+            "period": ""
+          },
+          "totalOutgoings": {
+            "value": "",
+            "period": "year"
+          }
+        }
+      },
+      {
+        "id": "12P0175",
+        "officeId": "1",
+        "officeName": "Agentbox Realty",
+        "type": "Lease",
+        "status": "Leased",
+        "marketingStatus": "Leased",
+        "hiddenListing": false,
+        "offMarketListing": false,
+        "method": "",
+        "webLink": "https://sandbox1.agentboxcrm.com.au/12P0175",
+        "listedDate": "",
+        "expiryDate": "",
+        "auctionDate": "",
+        "timezone": "",
+        "auctionVenue": "",
+        "eoiClosingDate": "",
+        "availableDate": "",
+        "onMarketDate": "",
+        "expectedOnMarketDate": "",
+        "leasedDate": "",
+        "bond": "",
+        "displayPrice": "$630",
+        "soldDate": "",
+        "property": {
+          "id": "16",
+          "type": "Residential",
+          "category": "House",
+          "name": "",
+          "newConstruction": false,
+          "address": {
+            "streetAddress": "35 Johnson",
+            "levelNum": "",
+            "lotNum": "",
+            "unitNum": "",
+            "streetNum": "35",
+            "streetName": "",
+            "streetType": "",
+            "suburb": "Freshwater",
+            "state": "NSW",
+            "postcode": "2096",
+            "country": "Australia",
+            "region": "Northern Beaches",
+            "hideAddress": false
+          },
+          "location": {
+            "lat": "-33.7747612",
+            "long": "151.2817688"
+          },
+          "bedrooms": "2",
+          "bathrooms": "1",
+          "totalParking": "1",
+          "landArea": {
+            "value": "",
+            "unit": ""
+          },
+          "landSizeText": "",
+          "buildingArea": {
+            "value": "",
+            "unit": "sqm"
+          }
+        },
+        "mainHeadline": "2 BEDROOM CHARMER - 3 blocks back from the beach!",
+        "firstCreated": "",
+        "lastModified": "2019-04-17T16:01:25+10:00",
+        "links": {
+          "self": "https://sandbox1.agentboxcrm.com.au/admin/api/listings/12P0175?version=2"
+        },
+        "inspectionType": "",
+        "outgoings": {
+          "landTax": {
+            "value": "0",
+            "period": ""
+          },
+          "councilRates": {
+            "value": "0",
+            "period": ""
+          },
+          "waterRates": {
+            "value": "0",
+            "period": ""
+          },
+          "strataAdmin": {
+            "value": "0",
+            "period": ""
+          },
+          "strataSinking": {
+            "value": "0",
+            "period": ""
+          },
+          "strataTotal": {
+            "value": "0",
+            "period": "quarter"
+          },
+          "otherOutgoings": {
+            "value": "0",
+            "period": ""
+          },
+          "totalOutgoings": {
+            "value": "",
+            "period": "year"
+          }
+        }
+      }
+    ]
+  }
+}
