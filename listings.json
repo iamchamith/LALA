@@ -1,529 +1,1189 @@
 {
-  "response": {
-    "items": "719",
-    "current": "1",
-    "last": "360",
-    "listings": [
-      {
-        "id": "12P0168",
-        "officeId": "1",
-        "officeName": "Agentbox Realty",
-        "type": "Lease",
-        "status": "Leased",
-        "marketingStatus": "Leased",
-        "hiddenListing": false,
-        "offMarketListing": false,
-        "method": "",
-        "webLink": "https://sandbox1.agentboxcrm.com.au/12P0168",
-        "listedDate": "",
-        "expiryDate": "",
-        "auctionDate": "",
-        "timezone": "",
-        "auctionVenue": "",
-        "eoiClosingDate": "",
-        "availableDate": "",
-        "onMarketDate": "",
-        "expectedOnMarketDate": "",
-        "leasedDate": "",
-        "bond": "",
-        "displayPrice": "$1,400",
-        "soldDate": "",
-        "property": {
-          "id": "15",
-          "type": "Residential",
-          "category": "Apartment",
-          "name": "",
-          "newConstruction": false,
-          "address": {
-            "streetAddress": "Jan-22 Addison Road",
-            "levelNum": "",
-            "lotNum": "",
-            "unitNum": "",
-            "streetNum": "Jan-22",
-            "streetName": "Addison",
-            "streetType": "Road",
-            "suburb": "Manly",
-            "state": "NSW",
-            "postcode": "2095",
-            "country": "Australia",
-            "region": "Northern Beaches",
-            "hideAddress": false
-          },
-          "location": {
-            "lat": "-33.80733109",
-            "long": "151.28404236"
-          },
-          "bedrooms": "4",
-          "bathrooms": "3",
-          "totalParking": "2",
-          "landArea": {
-            "value": "",
-            "unit": ""
-          },
-          "landSizeText": "",
-          "buildingArea": {
-            "value": "",
-            "unit": "sqm"
+  "Response": {
+    "TotalRecords": "150",
+    "CurrentPage": "1",
+    "TotalPages": "50",
+    "Results": {
+      "Listings": [
+        {
+          "Listing": {
+            "listingId": "12P0496",
+            "officeId": "1",
+            "officeName": "Agentbox Realty",
+            "listingType": "Sale",
+            "listingStatus": "Settled",
+            "marketingStatus": "Sold",
+            "hiddenListing": "false",
+            "propertyType": "Residential",
+            "propertyCategory": "House",
+            "propertyName": "",
+            "address": {
+              "streetAddress": "27 Margaret Street",
+              "levelNum": "",
+              "lotNum": "",
+              "unitNum": "",
+              "streetNum": "27",
+              "streetName": "Margaret Street",
+              "suburb": "Fairlight",
+              "state": "NSW",
+              "postCode": "2094",
+              "country": "Australia",
+              "hideAddress": "false"
+            },
+            "location": {
+              "lat": "-33.79758453",
+              "long": "151.27684021"
+            },
+            "listingMethod": "Auction",
+            "listingDate": "2018-02-01",
+            "listingExpiryDate": "2018-05-01",
+            "auctionDate": "",
+            "timezone": "",
+            "auctionVenue": "",
+            "eoiClosingDate": "",
+            "availableDate": "",
+            "bond": "",
+            "displayPrice": "$2,950,000 - 19/09/08",
+            "soldDate": "2018-03-05",
+            "inspectionTimes": [],
+            "propertyFeatures": {
+              "bedrooms": "4",
+              "bathrooms": "2",
+              "totalParking": "2",
+              "landArea": {
+                "area": "644",
+                "unit": "sqm"
+              },
+              "buildingArea": {
+                "area": "",
+                "unit": "sqm"
+              }
+            },
+            "mainHeadline": "a home to fill your heart with pride",
+            "mainDescription": "lifestyle  an exceptional family residence that will fill your heart with pride, the immaculate ‘engadine’ beautifully combines federation elegance with contemporary style.  privately positioned in a quiet leafy street, a short stroll to harbour and manly beaches, ferry, cafes and cbd buses    accommodation  casual living and gourmet kitchen area flows through bi-folding doors to the majestic rear garden and sandstone entertainer’s terrace with built-in gas bbq.  spacious formal lounge and separate dining.  sunny front terrace with water views.  indulgent master suite, spacious bedrooms and abundant storage throughout    features  magnificent street appeal with its sandstone and original fa?ade, tessellated tile porch, automatic double garage and landscaped gardens.  light and bright with timber floors, leadlight windows, soaring ornate ceilings, central heating, fireplaces and elegant architraves.  massive attic space, potential for second level (STCA)",
+            "listingImage": [
+              {
+                "ListingImage": {
+                  "imageId": "1322409555.jpg",
+                  "title": "",
+                  "url": "https://agentboxcdn.com.au/clients-data/3677/public_html/media/lt/1/12P0496/1322409555.jpg",
+                  "thumbnails": [
+                    {
+                      "Thumbnail": {
+                        "url": "https://agentboxcdn.com.au/clients-data/3677/public_html/media/lt/1/12P0496/1322409555-rsa.jpg",
+                        "size": "a",
+                        "width": "220",
+                        "height": "147"
+                      }
+                    },
+                    {
+                      "Thumbnail": {
+                        "url": "https://agentboxcdn.com.au/clients-data/3677/public_html/media/lt/1/12P0496/1322409555-rsb.jpg",
+                        "size": "b",
+                        "width": "450",
+                        "height": "300"
+                      }
+                    },
+                    {
+                      "Thumbnail": {
+                        "url": "https://agentboxcdn.com.au/clients-data/3677/public_html/media/lt/1/12P0496/1322409555-rsc.jpg",
+                        "size": "c",
+                        "width": "730",
+                        "height": "486"
+                      }
+                    },
+                    {
+                      "Thumbnail": {
+                        "url": "https://agentboxcdn.com.au/clients-data/3677/public_html/media/lt/1/12P0496/1322409555-rsd.jpg",
+                        "size": "d",
+                        "width": "800",
+                        "height": "532"
+                      }
+                    }
+                  ],
+                  "order": "1",
+                  "lastModified": "2020-11-23T11:16:21+11:00"
+                }
+              }
+            ],
+            "firstCreated": "",
+            "lastModified": "2020-11-23T11:16:21+11:00",
+            "@URL": "https://sandbox1.agentboxcrm.com.au/admin/api/listings/12P0496?key=c1fe-df05-349b-aee3-c54c-036b-30c3-d90d-7bb8-9266",
+            "contacts": [
+              {
+                "contact": {
+                  "role": "Vendor",
+                  "Contact": [
+                    {
+                      "contactId": "48",
+                      "contactType": "Person",
+                      "contactStatus": "Active",
+                      "title": "",
+                      "firstName": "Sally",
+                      "lastName": "Smith",
+                      "salutation": "Sally",
+                      "companyName": "",
+                      "email": "sallysmith@yahoo.com",
+                      "mobile": "0401 236 598",
+                      "homePhone": "",
+                      "workPhone": "",
+                      "firstCreated": "2018-03-13T17:41:42+11:00",
+                      "lastModified": "2018-09-13T08:55:08+10:00",
+                      "@URL": "https://sandbox1.agentboxcrm.com.au/admin/api/contacts/48?key=c1fe-df05-349b-aee3-c54c-036b-30c3-d90d-7bb8-9266"
+                    }
+                  ]
+                }
+              },
+              {
+                "contact": {
+                  "role": "Buyer",
+                  "Contact": [
+                    {
+                      "contactId": "49",
+                      "contactType": "Person",
+                      "contactStatus": "Active",
+                      "title": "",
+                      "firstName": "Sophie",
+                      "lastName": "Moss",
+                      "salutation": "Sophie",
+                      "companyName": "",
+                      "email": "smoss@hotmail.com",
+                      "mobile": "0401 236 587",
+                      "homePhone": "",
+                      "workPhone": "",
+                      "firstCreated": "2018-03-13T17:43:15+11:00",
+                      "lastModified": "2020-11-18T14:53:16+11:00",
+                      "@URL": "https://sandbox1.agentboxcrm.com.au/admin/api/contacts/49?key=c1fe-df05-349b-aee3-c54c-036b-30c3-d90d-7bb8-9266"
+                    }
+                  ]
+                }
+              },
+              {
+                "contact": {
+                  "role": "Conjunctional Agent",
+                  "Contact": [
+                    {
+                      "contactId": "143",
+                      "contactType": "Person",
+                      "contactStatus": "Active",
+                      "title": "",
+                      "firstName": "John",
+                      "lastName": "Cameron",
+                      "salutation": "John",
+                      "companyName": "",
+                      "email": "john.cameron@agentbox.com.au",
+                      "mobile": "0403 698 758",
+                      "homePhone": "",
+                      "workPhone": "",
+                      "firstCreated": "2018-03-13T18:10:31+11:00",
+                      "lastModified": "2019-03-12T12:15:02+11:00",
+                      "@URL": "https://sandbox1.agentboxcrm.com.au/admin/api/contacts/143?key=c1fe-df05-349b-aee3-c54c-036b-30c3-d90d-7bb8-9266"
+                    }
+                  ]
+                }
+              }
+            ],
+            "agents": [
+              {
+                "agent": {
+                  "webDisplay": "true",
+                  "displayOrder": "1",
+                  "listingRole": "Listing Agent",
+                  "StaffMember": {
+                    "memberId": "1stf0016",
+                    "status": "Active",
+                    "officeId": "2",
+                    "officeName": "Agentbox Realty - Eveleigh",
+                    "externalMemberId": "1",
+                    "firstName": "Byb Sa",
+                    "lastName": "S",
+                    "role": "Sales Representative",
+                    "jobTitle": "Sales Representative",
+                    "email": "sa@beforeyoubid.com.au",
+                    "mobile": "0405 967 332",
+                    "phone": "02 9999 9999",
+                    "images": [
+                      {
+                        "StaffImage": {
+                          "imageId": "15417277523.jpg",
+                          "url": "https://agentboxcdn.com.au/clients-data/3677/public_html/media/staff/1/1stf0016/15417277523.jpg",
+                          "thumbnails": [
+                            {
+                              "Thumbnail": {
+                                "url": "https://agentboxcdn.com.au/clients-data/3677/public_html/media/staff/1/1stf0016/15417277523-rsa.jpg",
+                                "size": "a",
+                                "width": "40",
+                                "height": "33"
+                              }
+                            },
+                            {
+                              "Thumbnail": {
+                                "url": "https://agentboxcdn.com.au/clients-data/3677/public_html/media/staff/1/1stf0016/15417277523-rsb.jpg",
+                                "size": "b",
+                                "width": "110",
+                                "height": "73"
+                              }
+                            },
+                            {
+                              "Thumbnail": {
+                                "url": "https://agentboxcdn.com.au/clients-data/3677/public_html/media/staff/1/1stf0016/15417277523-rsd.jpg",
+                                "size": "d",
+                                "width": "480",
+                                "height": "480"
+                              }
+                            },
+                            {
+                              "Thumbnail": {
+                                "url": "https://agentboxcdn.com.au/clients-data/3677/public_html/media/staff/1/1stf0016/15417277523-rsd.jpg",
+                                "size": "d",
+                                "width": "480",
+                                "height": "480"
+                              }
+                            }
+                          ],
+                          "order": "0",
+                          "imageType": "Staff Photo"
+                        }
+                      }
+                    ],
+                    "webDisplay": {
+                      "display": [
+                        "My Testimonials",
+                        "Our Staff"
+                      ]
+                    },
+                    "firstCreated": "2011-09-19T11:19:28+10:00",
+                    "lastModified": "2021-03-03T15:59:56+11:00",
+                    "@URL": "https://sandbox1.agentboxcrm.com.au/admin/api/staff/1stf0016?key=c1fe-df05-349b-aee3-c54c-036b-30c3-d90d-7bb8-9266"
+                  }
+                }
+              },
+              {
+                "agent": {
+                  "webDisplay": "true",
+                  "displayOrder": "2",
+                  "listingRole": "Appraisal Agent",
+                  "StaffMember": {
+                    "memberId": "1stf0016",
+                    "status": "Active",
+                    "officeId": "2",
+                    "officeName": "Agentbox Realty - Eveleigh",
+                    "externalMemberId": "1",
+                    "firstName": "Byb Sa",
+                    "lastName": "S",
+                    "role": "Sales Representative",
+                    "jobTitle": "Sales Representative",
+                    "email": "sa@beforeyoubid.com.au",
+                    "mobile": "0405 967 332",
+                    "phone": "02 9999 9999",
+                    "images": [
+                      {
+                        "StaffImage": {
+                          "imageId": "15417277523.jpg",
+                          "url": "https://agentboxcdn.com.au/clients-data/3677/public_html/media/staff/1/1stf0016/15417277523.jpg",
+                          "thumbnails": [
+                            {
+                              "Thumbnail": {
+                                "url": "https://agentboxcdn.com.au/clients-data/3677/public_html/media/staff/1/1stf0016/15417277523-rsa.jpg",
+                                "size": "a",
+                                "width": "40",
+                                "height": "33"
+                              }
+                            },
+                            {
+                              "Thumbnail": {
+                                "url": "https://agentboxcdn.com.au/clients-data/3677/public_html/media/staff/1/1stf0016/15417277523-rsb.jpg",
+                                "size": "b",
+                                "width": "110",
+                                "height": "73"
+                              }
+                            },
+                            {
+                              "Thumbnail": {
+                                "url": "https://agentboxcdn.com.au/clients-data/3677/public_html/media/staff/1/1stf0016/15417277523-rsd.jpg",
+                                "size": "d",
+                                "width": "480",
+                                "height": "480"
+                              }
+                            },
+                            {
+                              "Thumbnail": {
+                                "url": "https://agentboxcdn.com.au/clients-data/3677/public_html/media/staff/1/1stf0016/15417277523-rsd.jpg",
+                                "size": "d",
+                                "width": "480",
+                                "height": "480"
+                              }
+                            }
+                          ],
+                          "order": "0",
+                          "imageType": "Staff Photo"
+                        }
+                      }
+                    ],
+                    "webDisplay": {
+                      "display": [
+                        "My Testimonials",
+                        "Our Staff"
+                      ]
+                    },
+                    "firstCreated": "2011-09-19T11:19:28+10:00",
+                    "lastModified": "2021-03-03T15:59:56+11:00",
+                    "@URL": "https://sandbox1.agentboxcrm.com.au/admin/api/staff/1stf0016?key=c1fe-df05-349b-aee3-c54c-036b-30c3-d90d-7bb8-9266"
+                  }
+                }
+              }
+            ],
+            "inspectionType": "",
+            "auctionVenueDetails": {
+              "name": "",
+              "address": "",
+              "phone": ""
+            },
+            "outgoings": {
+              "landTax": {
+                "rate": "",
+                "period": "quarter"
+              },
+              "councilRates": {
+                "rate": "",
+                "period": "quarter"
+              },
+              "waterRates": {
+                "rate": "",
+                "period": "quarter"
+              },
+              "strataAdmin": {
+                "rate": "",
+                "period": "quarter"
+              },
+              "strataSinking": {
+                "rate": "",
+                "period": "quarter"
+              },
+              "otherOutgoings": {
+                "rate": "",
+                "period": "quarter"
+              },
+              "totalOutgoings": {
+                "rate": "0",
+                "period": "year"
+              }
+            }
           }
         },
-        "mainHeadline": "Waterfront Executive-Standard 4-bedroom Apartment",
-        "firstCreated": "",
-        "lastModified": "2020-10-30T16:45:08+11:00",
-        "links": {
-          "self": "https://sandbox1.agentboxcrm.com.au/admin/api/listings/12P0168?version=2"
+        {
+          "Listing": {
+            "listingId": "12P0512",
+            "officeId": "1",
+            "officeName": "Agentbox Realty",
+            "listingType": "Sale",
+            "listingStatus": "Settled",
+            "marketingStatus": "Sold",
+            "hiddenListing": "false",
+            "propertyType": "Residential",
+            "propertyCategory": "House",
+            "propertyName": "",
+            "address": {
+              "streetAddress": "43 Headland Road",
+              "levelNum": "",
+              "lotNum": "",
+              "unitNum": "",
+              "streetNum": "43",
+              "streetName": "Headland Road",
+              "suburb": "North Curl Curl",
+              "state": "NSW",
+              "postCode": "2099",
+              "country": "Australia",
+              "hideAddress": "false"
+            },
+            "location": {
+              "lat": "-33.76122665",
+              "long": "151.29769897"
+            },
+            "listingMethod": "Private Treaty",
+            "listingDate": "2017-10-01",
+            "listingExpiryDate": "2018-01-01",
+            "auctionDate": "",
+            "timezone": "",
+            "auctionVenue": "",
+            "eoiClosingDate": "",
+            "availableDate": "",
+            "bond": "",
+            "displayPrice": "$2,105,000 ",
+            "soldDate": "2017-10-28",
+            "inspectionTimes": [],
+            "propertyFeatures": {
+              "bedrooms": "5",
+              "bathrooms": "3",
+              "totalParking": "2",
+              "landArea": {
+                "area": "",
+                "unit": ""
+              },
+              "buildingArea": {
+                "area": "",
+                "unit": "sqm"
+              }
+            },
+            "mainHeadline": "oustanding oppertunity - architectual residence",
+            "mainDescription": "lifestyle  perched in a sunny elevated position overlooking the beach with views to the cbd, this immaculate family home epitomises first class living.architect-designed in 2004, it is an entertainer’s delight with masses of open plan space, a huge alfresco terrace and poolside bbq patio",
+            "listingImage": [
+              {
+                "ListingImage": {
+                  "imageId": "1322415398.jpg",
+                  "title": "",
+                  "url": "https://agentboxcdn.com.au/clients-data/3677/public_html/media/lt/1/12P0512/1322415398.jpg",
+                  "thumbnails": [
+                    {
+                      "Thumbnail": {
+                        "url": "https://agentboxcdn.com.au/clients-data/3677/public_html/media/lt/1/12P0512/1322415398-rsa.jpg",
+                        "size": "a",
+                        "width": "220",
+                        "height": "147"
+                      }
+                    },
+                    {
+                      "Thumbnail": {
+                        "url": "https://agentboxcdn.com.au/clients-data/3677/public_html/media/lt/1/12P0512/1322415398-rsb.jpg",
+                        "size": "b",
+                        "width": "450",
+                        "height": "300"
+                      }
+                    },
+                    {
+                      "Thumbnail": {
+                        "url": "https://agentboxcdn.com.au/clients-data/3677/public_html/media/lt/1/12P0512/1322415398-rsc.jpg",
+                        "size": "c",
+                        "width": "730",
+                        "height": "486"
+                      }
+                    },
+                    {
+                      "Thumbnail": {
+                        "url": "https://agentboxcdn.com.au/clients-data/3677/public_html/media/lt/1/12P0512/1322415398-rsd.jpg",
+                        "size": "d",
+                        "width": "800",
+                        "height": "531"
+                      }
+                    }
+                  ],
+                  "order": "1",
+                  "lastModified": "2019-04-17T16:22:39+10:00"
+                }
+              }
+            ],
+            "firstCreated": "",
+            "lastModified": "2019-04-17T16:22:39+10:00",
+            "@URL": "https://sandbox1.agentboxcrm.com.au/admin/api/listings/12P0512?key=c1fe-df05-349b-aee3-c54c-036b-30c3-d90d-7bb8-9266",
+            "contacts": [
+              {
+                "contact": {
+                  "role": "Vendor",
+                  "Contact": [
+                    {
+                      "contactId": "209",
+                      "contactType": "Person",
+                      "contactStatus": "Active",
+                      "title": "",
+                      "firstName": "Roy",
+                      "lastName": "Nybo",
+                      "salutation": "Roy",
+                      "companyName": "",
+                      "email": "rnybo@hotmail.com",
+                      "mobile": "",
+                      "homePhone": "02 -531 1-7778",
+                      "workPhone": "",
+                      "firstCreated": "2018-04-23T10:05:34+10:00",
+                      "lastModified": "2019-05-09T10:28:33+10:00",
+                      "@URL": "https://sandbox1.agentboxcrm.com.au/admin/api/contacts/209?key=c1fe-df05-349b-aee3-c54c-036b-30c3-d90d-7bb8-9266"
+                    }
+                  ]
+                }
+              },
+              {
+                "contact": {
+                  "role": "Buyer",
+                  "Contact": [
+                    {
+                      "contactId": "236",
+                      "contactType": "Person",
+                      "contactStatus": "Active",
+                      "title": "",
+                      "firstName": "Elliot",
+                      "lastName": "Scatton",
+                      "salutation": "Elliot",
+                      "companyName": "",
+                      "email": "elliot.scatton@hotmail.com",
+                      "mobile": "0407 412 325",
+                      "homePhone": "02 4256 4598",
+                      "workPhone": "",
+                      "firstCreated": "2018-04-23T10:05:34+10:00",
+                      "lastModified": "2018-11-06T14:55:41+11:00",
+                      "@URL": "https://sandbox1.agentboxcrm.com.au/admin/api/contacts/236?key=c1fe-df05-349b-aee3-c54c-036b-30c3-d90d-7bb8-9266"
+                    }
+                  ]
+                }
+              }
+            ],
+            "agents": [
+              {
+                "agent": {
+                  "webDisplay": "true",
+                  "displayOrder": "2",
+                  "listingRole": "Listing Agent",
+                  "StaffMember": {
+                    "memberId": "1stf0006",
+                    "status": "Active",
+                    "officeId": "4",
+                    "officeName": "Agentbox Realty - Newtown",
+                    "externalMemberId": "1",
+                    "firstName": "Richard",
+                    "lastName": "Hanson",
+                    "role": "Sales Representative",
+                    "jobTitle": "Sales Representative",
+                    "email": "richard@sandbox1.agentboxcrm.com.au",
+                    "mobile": "0400 444 444",
+                    "phone": "02 9999 9999",
+                    "images": [
+                      {
+                        "StaffImage": {
+                          "imageId": "15417242281.jpg",
+                          "url": "https://agentboxcdn.com.au/clients-data/3677/public_html/media/staff/1/1stf0006/15417242281.jpg",
+                          "thumbnails": [
+                            {
+                              "Thumbnail": {
+                                "url": "https://agentboxcdn.com.au/clients-data/3677/public_html/media/staff/1/1stf0006/15417242281-rsa.jpg",
+                                "size": "a",
+                                "width": "40",
+                                "height": "33"
+                              }
+                            },
+                            {
+                              "Thumbnail": {
+                                "url": "https://agentboxcdn.com.au/clients-data/3677/public_html/media/staff/1/1stf0006/15417242281-rsb.jpg",
+                                "size": "b",
+                                "width": "110",
+                                "height": "73"
+                              }
+                            },
+                            {
+                              "Thumbnail": {
+                                "url": "https://agentboxcdn.com.au/clients-data/3677/public_html/media/staff/1/1stf0006/15417242281-rsd.jpg",
+                                "size": "d",
+                                "width": "480",
+                                "height": "480"
+                              }
+                            },
+                            {
+                              "Thumbnail": {
+                                "url": "https://agentboxcdn.com.au/clients-data/3677/public_html/media/staff/1/1stf0006/15417242281-rsd.jpg",
+                                "size": "d",
+                                "width": "480",
+                                "height": "480"
+                              }
+                            }
+                          ],
+                          "order": "0",
+                          "imageType": "Staff Photo"
+                        }
+                      }
+                    ],
+                    "webDisplay": {
+                      "display": [
+                        "My Listings",
+                        "My Open Homes",
+                        "My Sold Properties",
+                        "My Testimonials",
+                        "Our Staff"
+                      ]
+                    },
+                    "firstCreated": "2011-09-19T10:27:58+10:00",
+                    "lastModified": "2020-04-09T08:41:14+10:00",
+                    "@URL": "https://sandbox1.agentboxcrm.com.au/admin/api/staff/1stf0006?key=c1fe-df05-349b-aee3-c54c-036b-30c3-d90d-7bb8-9266"
+                  }
+                }
+              },
+              {
+                "agent": {
+                  "webDisplay": "true",
+                  "displayOrder": "1",
+                  "listingRole": "Selling Agent",
+                  "StaffMember": {
+                    "memberId": "1stf0011",
+                    "status": "Archived",
+                    "officeId": "1",
+                    "officeName": "Agentbox Realty",
+                    "externalMemberId": "1",
+                    "firstName": "Alicia",
+                    "lastName": "Thomas",
+                    "role": "Sales Representative",
+                    "jobTitle": "Sales Representative",
+                    "email": "alicia@sandbox1.agentboxcrm.com.au",
+                    "mobile": "0400 999 999",
+                    "phone": "02 8888 8888",
+                    "images": [
+                      {
+                        "StaffImage": {
+                          "imageId": "15417246441.jpg",
+                          "url": "https://agentboxcdn.com.au/clients-data/3677/public_html/media/staff/1/1stf0011/15417246441.jpg",
+                          "thumbnails": [
+                            {
+                              "Thumbnail": {
+                                "url": "https://agentboxcdn.com.au/clients-data/3677/public_html/media/staff/1/1stf0011/15417246441-rsa.jpg",
+                                "size": "a",
+                                "width": "40",
+                                "height": "33"
+                              }
+                            },
+                            {
+                              "Thumbnail": {
+                                "url": "https://agentboxcdn.com.au/clients-data/3677/public_html/media/staff/1/1stf0011/15417246441-rsb.jpg",
+                                "size": "b",
+                                "width": "110",
+                                "height": "73"
+                              }
+                            },
+                            {
+                              "Thumbnail": {
+                                "url": "https://agentboxcdn.com.au/clients-data/3677/public_html/media/staff/1/1stf0011/15417246441-rsd.jpg",
+                                "size": "d",
+                                "width": "480",
+                                "height": "480"
+                              }
+                            },
+                            {
+                              "Thumbnail": {
+                                "url": "https://agentboxcdn.com.au/clients-data/3677/public_html/media/staff/1/1stf0011/15417246441-rsd.jpg",
+                                "size": "d",
+                                "width": "480",
+                                "height": "480"
+                              }
+                            }
+                          ],
+                          "order": "0",
+                          "imageType": "Staff Photo"
+                        }
+                      }
+                    ],
+                    "webDisplay": {
+                      "display": [
+                        "My Listings",
+                        "My Testimonials",
+                        "Our Staff"
+                      ]
+                    },
+                    "firstCreated": "2011-09-19T10:55:02+10:00",
+                    "lastModified": "2019-06-13T18:22:11+10:00",
+                    "@URL": "https://sandbox1.agentboxcrm.com.au/admin/api/staff/1stf0011?key=c1fe-df05-349b-aee3-c54c-036b-30c3-d90d-7bb8-9266"
+                  }
+                }
+              },
+              {
+                "agent": {
+                  "webDisplay": "false",
+                  "displayOrder": "0",
+                  "listingRole": "Listing Agent",
+                  "StaffMember": {
+                    "memberId": "1stf0011",
+                    "status": "Archived",
+                    "officeId": "1",
+                    "officeName": "Agentbox Realty",
+                    "externalMemberId": "1",
+                    "firstName": "Alicia",
+                    "lastName": "Thomas",
+                    "role": "Sales Representative",
+                    "jobTitle": "Sales Representative",
+                    "email": "alicia@sandbox1.agentboxcrm.com.au",
+                    "mobile": "0400 999 999",
+                    "phone": "02 8888 8888",
+                    "images": [
+                      {
+                        "StaffImage": {
+                          "imageId": "15417246441.jpg",
+                          "url": "https://agentboxcdn.com.au/clients-data/3677/public_html/media/staff/1/1stf0011/15417246441.jpg",
+                          "thumbnails": [
+                            {
+                              "Thumbnail": {
+                                "url": "https://agentboxcdn.com.au/clients-data/3677/public_html/media/staff/1/1stf0011/15417246441-rsa.jpg",
+                                "size": "a",
+                                "width": "40",
+                                "height": "33"
+                              }
+                            },
+                            {
+                              "Thumbnail": {
+                                "url": "https://agentboxcdn.com.au/clients-data/3677/public_html/media/staff/1/1stf0011/15417246441-rsb.jpg",
+                                "size": "b",
+                                "width": "110",
+                                "height": "73"
+                              }
+                            },
+                            {
+                              "Thumbnail": {
+                                "url": "https://agentboxcdn.com.au/clients-data/3677/public_html/media/staff/1/1stf0011/15417246441-rsd.jpg",
+                                "size": "d",
+                                "width": "480",
+                                "height": "480"
+                              }
+                            },
+                            {
+                              "Thumbnail": {
+                                "url": "https://agentboxcdn.com.au/clients-data/3677/public_html/media/staff/1/1stf0011/15417246441-rsd.jpg",
+                                "size": "d",
+                                "width": "480",
+                                "height": "480"
+                              }
+                            }
+                          ],
+                          "order": "0",
+                          "imageType": "Staff Photo"
+                        }
+                      }
+                    ],
+                    "webDisplay": {
+                      "display": [
+                        "My Listings",
+                        "My Testimonials",
+                        "Our Staff"
+                      ]
+                    },
+                    "firstCreated": "2011-09-19T10:55:02+10:00",
+                    "lastModified": "2019-06-13T18:22:11+10:00",
+                    "@URL": "https://sandbox1.agentboxcrm.com.au/admin/api/staff/1stf0011?key=c1fe-df05-349b-aee3-c54c-036b-30c3-d90d-7bb8-9266"
+                  }
+                }
+              }
+            ],
+            "inspectionType": "",
+            "outgoings": {
+              "landTax": {
+                "rate": "",
+                "period": "quarter"
+              },
+              "councilRates": {
+                "rate": "528",
+                "period": "quarter"
+              },
+              "waterRates": {
+                "rate": "300",
+                "period": "quarter"
+              },
+              "strataAdmin": {
+                "rate": "",
+                "period": "quarter"
+              },
+              "strataSinking": {
+                "rate": "",
+                "period": "quarter"
+              },
+              "otherOutgoings": {
+                "rate": "",
+                "period": "quarter"
+              },
+              "totalOutgoings": {
+                "rate": "3312",
+                "period": "year"
+              }
+            }
+          }
         },
-        "inspectionType": "",
-        "outgoings": {
-          "landTax": {
-            "value": "0",
-            "period": ""
-          },
-          "councilRates": {
-            "value": "0",
-            "period": ""
-          },
-          "waterRates": {
-            "value": "0",
-            "period": ""
-          },
-          "strataAdmin": {
-            "value": "0",
-            "period": ""
-          },
-          "strataSinking": {
-            "value": "0",
-            "period": ""
-          },
-          "strataTotal": {
-            "value": "0",
-            "period": "quarter"
-          },
-          "otherOutgoings": {
-            "value": "0",
-            "period": ""
-          },
-          "totalOutgoings": {
-            "value": "",
-            "period": "year"
+        {
+          "Listing": {
+            "listingId": "12P0580",
+            "officeId": "1",
+            "officeName": "Agentbox Realty",
+            "listingType": "Sale",
+            "listingStatus": "Settled",
+            "marketingStatus": "Sold",
+            "hiddenListing": "false",
+            "propertyType": "Residential",
+            "propertyCategory": "Apartment",
+            "propertyName": "",
+            "address": {
+              "streetAddress": "11 High Street",
+              "levelNum": "",
+              "lotNum": "",
+              "unitNum": "",
+              "streetNum": "11",
+              "streetName": "High Street",
+              "suburb": "Manly",
+              "state": "NSW",
+              "postCode": "2095",
+              "country": "Australia",
+              "hideAddress": "false"
+            },
+            "location": {
+              "lat": "-33.80396271",
+              "long": "151.28952026"
+            },
+            "listingMethod": "Private Treaty",
+            "listingDate": "2017-09-18",
+            "listingExpiryDate": "2017-12-12",
+            "auctionDate": "",
+            "timezone": "",
+            "auctionVenue": "",
+            "eoiClosingDate": "",
+            "availableDate": "",
+            "bond": "",
+            "displayPrice": "Over $635,000",
+            "soldDate": "2017-10-02",
+            "inspectionTimes": [],
+            "propertyFeatures": {
+              "bedrooms": "2",
+              "bathrooms": "1",
+              "totalParking": "0",
+              "landArea": {
+                "area": "",
+                "unit": ""
+              },
+              "buildingArea": {
+                "area": "",
+                "unit": "sqm"
+              }
+            },
+            "mainHeadline": "stylish apartment with extras",
+            "mainDescription": "lifestyle    surrounded by ocean and harbour beaches and within easy strolling distance to the convenience of manly, this superbly appointed apartment offers the features of a semi without the price tag. full of character and generously proportioned the apartment flows to a sun filled common courtyard and has an exclusive yet extremely large, lower level multifunctional storage area    features    period features including polished floors and ornate ceilings. quality built-ins in both bedrooms, gas heating, internal laundry. a relaxed coastal lifestyle awaits    accommodation    one of only 4 the apartment has a spacious master bedroom with light-filled sunroom, living room flowing to a gourmet galley kitchen which opens out onto the designer courtyard. the second bedroom and sparkling bathroom complete a desirable package",
+            "listingImage": [
+              {
+                "ListingImage": {
+                  "imageId": "1322438003.jpg",
+                  "title": "",
+                  "url": "https://agentboxcdn.com.au/clients-data/3677/public_html/media/lt/1/12P0580/1322438003.jpg",
+                  "thumbnails": [
+                    {
+                      "Thumbnail": {
+                        "url": "https://agentboxcdn.com.au/clients-data/3677/public_html/media/lt/1/12P0580/1322438003-rsa.jpg",
+                        "size": "a",
+                        "width": "220",
+                        "height": "147"
+                      }
+                    },
+                    {
+                      "Thumbnail": {
+                        "url": "https://agentboxcdn.com.au/clients-data/3677/public_html/media/lt/1/12P0580/1322438003-rsb.jpg",
+                        "size": "b",
+                        "width": "450",
+                        "height": "300"
+                      }
+                    },
+                    {
+                      "Thumbnail": {
+                        "url": "https://agentboxcdn.com.au/clients-data/3677/public_html/media/lt/1/12P0580/1322438003-rsc.jpg",
+                        "size": "c",
+                        "width": "730",
+                        "height": "486"
+                      }
+                    },
+                    {
+                      "Thumbnail": {
+                        "url": "https://agentboxcdn.com.au/clients-data/3677/public_html/media/lt/1/12P0580/1322438003-rsd.jpg",
+                        "size": "d",
+                        "width": "800",
+                        "height": "533"
+                      }
+                    }
+                  ],
+                  "order": "1",
+                  "lastModified": "2019-04-23T09:57:40+10:00"
+                }
+              }
+            ],
+            "firstCreated": "",
+            "lastModified": "2019-04-23T09:57:40+10:00",
+            "@URL": "https://sandbox1.agentboxcrm.com.au/admin/api/listings/12P0580?key=c1fe-df05-349b-aee3-c54c-036b-30c3-d90d-7bb8-9266",
+            "contacts": [
+              {
+                "contact": {
+                  "role": "Buyer",
+                  "Contact": [
+                    {
+                      "contactId": "230",
+                      "contactType": "Person",
+                      "contactStatus": "Active",
+                      "title": "",
+                      "firstName": "Craig",
+                      "lastName": "Vandersloot",
+                      "salutation": "Craig",
+                      "companyName": "",
+                      "email": "craig_vandersloot@yahoo.com",
+                      "mobile": "",
+                      "homePhone": "02 -548 7-7528",
+                      "workPhone": "",
+                      "firstCreated": "2018-04-23T10:05:34+10:00",
+                      "lastModified": "2018-09-13T08:55:58+10:00",
+                      "@URL": "https://sandbox1.agentboxcrm.com.au/admin/api/contacts/230?key=c1fe-df05-349b-aee3-c54c-036b-30c3-d90d-7bb8-9266"
+                    }
+                  ]
+                }
+              },
+              {
+                "contact": {
+                  "role": "Vendor",
+                  "Contact": [
+                    {
+                      "contactId": "237",
+                      "contactType": "Person",
+                      "contactStatus": "Active",
+                      "title": "",
+                      "firstName": "Tegan",
+                      "lastName": "Ebershoff",
+                      "salutation": "Tegan",
+                      "companyName": "",
+                      "email": "tegan_ebershoff@hotmail.com",
+                      "mobile": "",
+                      "homePhone": "02-6604-9720",
+                      "workPhone": "",
+                      "firstCreated": "2018-04-23T10:05:34+10:00",
+                      "lastModified": "2018-09-13T08:55:59+10:00",
+                      "@URL": "https://sandbox1.agentboxcrm.com.au/admin/api/contacts/237?key=c1fe-df05-349b-aee3-c54c-036b-30c3-d90d-7bb8-9266"
+                    }
+                  ]
+                }
+              }
+            ],
+            "agents": [
+              {
+                "agent": {
+                  "webDisplay": "true",
+                  "displayOrder": "1",
+                  "listingRole": "Listing Agent",
+                  "StaffMember": {
+                    "memberId": "1stf0005",
+                    "status": "Active",
+                    "officeId": "4",
+                    "officeName": "Agentbox Realty - Newtown",
+                    "externalMemberId": "1",
+                    "firstName": "Ben",
+                    "lastName": "Jacobson",
+                    "role": "Sales Representative",
+                    "jobTitle": "Sales Representative & Auctioneer",
+                    "email": "ben@sandbox1-training.agentboxmail.com.au",
+                    "mobile": "0400 333 333",
+                    "phone": "02 9999 9999",
+                    "images": [
+                      {
+                        "StaffImage": {
+                          "imageId": "15553113907.jpg",
+                          "url": "https://agentboxcdn.com.au/clients-data/3677/public_html/media/staff/1/1stf0005/15553113907.jpg",
+                          "thumbnails": [
+                            {
+                              "Thumbnail": {
+                                "url": "https://agentboxcdn.com.au/clients-data/3677/public_html/media/staff/1/1stf0005/15553113907-rsa.jpg",
+                                "size": "a",
+                                "width": "33",
+                                "height": "40"
+                              }
+                            },
+                            {
+                              "Thumbnail": {
+                                "url": "https://agentboxcdn.com.au/clients-data/3677/public_html/media/staff/1/1stf0005/15553113907-rsb.jpg",
+                                "size": "b",
+                                "width": "73",
+                                "height": "110"
+                              }
+                            },
+                            {
+                              "Thumbnail": {
+                                "url": "https://agentboxcdn.com.au/clients-data/3677/public_html/media/staff/1/1stf0005/15553113907-rsd.jpg",
+                                "size": "d",
+                                "width": "480",
+                                "height": "480"
+                              }
+                            },
+                            {
+                              "Thumbnail": {
+                                "url": "https://agentboxcdn.com.au/clients-data/3677/public_html/media/staff/1/1stf0005/15553113907-rsd.jpg",
+                                "size": "d",
+                                "width": "480",
+                                "height": "480"
+                              }
+                            }
+                          ],
+                          "order": "0",
+                          "imageType": "Staff Photo"
+                        }
+                      }
+                    ],
+                    "webDisplay": [],
+                    "firstCreated": "2011-09-19T10:22:29+10:00",
+                    "lastModified": "2021-02-22T12:47:18+11:00",
+                    "@URL": "https://sandbox1.agentboxcrm.com.au/admin/api/staff/1stf0005?key=c1fe-df05-349b-aee3-c54c-036b-30c3-d90d-7bb8-9266"
+                  }
+                }
+              },
+              {
+                "agent": {
+                  "webDisplay": "true",
+                  "displayOrder": "2",
+                  "listingRole": "Listing Agent",
+                  "StaffMember": {
+                    "memberId": "1stf0009",
+                    "status": "Archived",
+                    "officeId": "1",
+                    "officeName": "Agentbox Realty",
+                    "externalMemberId": "1",
+                    "firstName": "Amber",
+                    "lastName": "Lithgow",
+                    "role": "Sales Representative",
+                    "jobTitle": "Sales Support",
+                    "email": "amber@sandbox1.agentboxcrm.com.au",
+                    "mobile": "0400 777 777",
+                    "phone": "02 9999 9999",
+                    "images": [
+                      {
+                        "StaffImage": {
+                          "imageId": "15550489888.jpg",
+                          "url": "https://agentboxcdn.com.au/clients-data/3677/public_html/media/staff/1/1stf0009/15550489888.jpg",
+                          "thumbnails": [
+                            {
+                              "Thumbnail": {
+                                "url": "https://agentboxcdn.com.au/clients-data/3677/public_html/media/staff/1/1stf0009/15550489888-rsa.jpg",
+                                "size": "a",
+                                "width": "33",
+                                "height": "40"
+                              }
+                            },
+                            {
+                              "Thumbnail": {
+                                "url": "https://agentboxcdn.com.au/clients-data/3677/public_html/media/staff/1/1stf0009/15550489888-rsb.jpg",
+                                "size": "b",
+                                "width": "73",
+                                "height": "110"
+                              }
+                            },
+                            {
+                              "Thumbnail": {
+                                "url": "https://agentboxcdn.com.au/clients-data/3677/public_html/media/staff/1/1stf0009/15550489888-rsd.jpg",
+                                "size": "d",
+                                "width": "480",
+                                "height": "480"
+                              }
+                            },
+                            {
+                              "Thumbnail": {
+                                "url": "https://agentboxcdn.com.au/clients-data/3677/public_html/media/staff/1/1stf0009/15550489888-rsd.jpg",
+                                "size": "d",
+                                "width": "480",
+                                "height": "480"
+                              }
+                            }
+                          ],
+                          "order": "0",
+                          "imageType": "Staff Photo"
+                        }
+                      }
+                    ],
+                    "webDisplay": [],
+                    "firstCreated": "2011-09-19T10:45:32+10:00",
+                    "lastModified": "2019-06-13T18:22:11+10:00",
+                    "@URL": "https://sandbox1.agentboxcrm.com.au/admin/api/staff/1stf0009?key=c1fe-df05-349b-aee3-c54c-036b-30c3-d90d-7bb8-9266"
+                  }
+                }
+              },
+              {
+                "agent": {
+                  "webDisplay": "false",
+                  "displayOrder": "0",
+                  "listingRole": "Selling Agent",
+                  "StaffMember": {
+                    "memberId": "1stf0005",
+                    "status": "Active",
+                    "officeId": "4",
+                    "officeName": "Agentbox Realty - Newtown",
+                    "externalMemberId": "1",
+                    "firstName": "Ben",
+                    "lastName": "Jacobson",
+                    "role": "Sales Representative",
+                    "jobTitle": "Sales Representative & Auctioneer",
+                    "email": "ben@sandbox1-training.agentboxmail.com.au",
+                    "mobile": "0400 333 333",
+                    "phone": "02 9999 9999",
+                    "images": [
+                      {
+                        "StaffImage": {
+                          "imageId": "15553113907.jpg",
+                          "url": "https://agentboxcdn.com.au/clients-data/3677/public_html/media/staff/1/1stf0005/15553113907.jpg",
+                          "thumbnails": [
+                            {
+                              "Thumbnail": {
+                                "url": "https://agentboxcdn.com.au/clients-data/3677/public_html/media/staff/1/1stf0005/15553113907-rsa.jpg",
+                                "size": "a",
+                                "width": "33",
+                                "height": "40"
+                              }
+                            },
+                            {
+                              "Thumbnail": {
+                                "url": "https://agentboxcdn.com.au/clients-data/3677/public_html/media/staff/1/1stf0005/15553113907-rsb.jpg",
+                                "size": "b",
+                                "width": "73",
+                                "height": "110"
+                              }
+                            },
+                            {
+                              "Thumbnail": {
+                                "url": "https://agentboxcdn.com.au/clients-data/3677/public_html/media/staff/1/1stf0005/15553113907-rsd.jpg",
+                                "size": "d",
+                                "width": "480",
+                                "height": "480"
+                              }
+                            },
+                            {
+                              "Thumbnail": {
+                                "url": "https://agentboxcdn.com.au/clients-data/3677/public_html/media/staff/1/1stf0005/15553113907-rsd.jpg",
+                                "size": "d",
+                                "width": "480",
+                                "height": "480"
+                              }
+                            }
+                          ],
+                          "order": "0",
+                          "imageType": "Staff Photo"
+                        }
+                      }
+                    ],
+                    "webDisplay": [],
+                    "firstCreated": "2011-09-19T10:22:29+10:00",
+                    "lastModified": "2021-02-22T12:47:18+11:00",
+                    "@URL": "https://sandbox1.agentboxcrm.com.au/admin/api/staff/1stf0005?key=c1fe-df05-349b-aee3-c54c-036b-30c3-d90d-7bb8-9266"
+                  }
+                }
+              }
+            ],
+            "inspectionType": "",
+            "outgoings": {
+              "landTax": {
+                "rate": "",
+                "period": "quarter"
+              },
+              "councilRates": {
+                "rate": "",
+                "period": "quarter"
+              },
+              "waterRates": {
+                "rate": "",
+                "period": "quarter"
+              },
+              "strataAdmin": {
+                "rate": "",
+                "period": "quarter"
+              },
+              "strataSinking": {
+                "rate": "",
+                "period": "quarter"
+              },
+              "otherOutgoings": {
+                "rate": "",
+                "period": "quarter"
+              },
+              "totalOutgoings": {
+                "rate": "0",
+                "period": "year"
+              }
+            }
           }
         }
-      },
-      {
-        "id": "12P0175",
-        "officeId": "1",
-        "officeName": "Agentbox Realty",
-        "type": "Lease",
-        "status": "Leased",
-        "marketingStatus": "Leased",
-        "hiddenListing": false,
-        "offMarketListing": false,
-        "method": "",
-        "webLink": "https://sandbox1.agentboxcrm.com.au/12P0175",
-        "listedDate": "",
-        "expiryDate": "",
-        "auctionDate": "",
-        "timezone": "",
-        "auctionVenue": "",
-        "eoiClosingDate": "",
-        "availableDate": "",
-        "onMarketDate": "",
-        "expectedOnMarketDate": "",
-        "leasedDate": "",
-        "bond": "",
-        "displayPrice": "$630",
-        "soldDate": "",
-        "property": {
-          "id": "16",
-          "type": "Residential",
-          "category": "House",
-          "name": "",
-          "newConstruction": false,
-          "address": {
-            "streetAddress": "35 Johnson",
-            "levelNum": "",
-            "lotNum": "",
-            "unitNum": "",
-            "streetNum": "35",
-            "streetName": "",
-            "streetType": "",
-            "suburb": "Freshwater",
-            "state": "NSW",
-            "postcode": "2096",
-            "country": "Australia",
-            "region": "Northern Beaches",
-            "hideAddress": false
-          },
-          "location": {
-            "lat": "-33.7747612",
-            "long": "151.2817688"
-          },
-          "bedrooms": "2",
-          "bathrooms": "1",
-          "totalParking": "1",
-          "landArea": {
-            "value": "",
-            "unit": ""
-          },
-          "landSizeText": "",
-          "buildingArea": {
-            "value": "",
-            "unit": "sqm"
-          }
-        },
-        "mainHeadline": "2 BEDROOM CHARMER - 3 blocks back from the beach!",
-        "firstCreated": "",
-        "lastModified": "2019-04-17T16:01:25+10:00",
-        "links": {
-          "self": "https://sandbox1.agentboxcrm.com.au/admin/api/listings/12P0175?version=2"
-        },
-        "inspectionType": "",
-        "outgoings": {
-          "landTax": {
-            "value": "0",
-            "period": ""
-          },
-          "councilRates": {
-            "value": "0",
-            "period": ""
-          },
-          "waterRates": {
-            "value": "0",
-            "period": ""
-          },
-          "strataAdmin": {
-            "value": "0",
-            "period": ""
-          },
-          "strataSinking": {
-            "value": "0",
-            "period": ""
-          },
-          "strataTotal": {
-            "value": "0",
-            "period": "quarter"
-          },
-          "otherOutgoings": {
-            "value": "0",
-            "period": ""
-          },
-          "totalOutgoings": {
-            "value": "",
-            "period": "year"
-          }
-        }
-      },
-      {
-        "id": "13P0175",
-        "officeId": "1",
-        "officeName": "Agentbox Realty",
-        "type": "Lease",
-        "status": "Leased",
-        "marketingStatus": "Leased",
-        "hiddenListing": false,
-        "offMarketListing": false,
-        "method": "",
-        "webLink": "https://sandbox1.agentboxcrm.com.au/12P0175",
-        "listedDate": "",
-        "expiryDate": "",
-        "auctionDate": "",
-        "timezone": "",
-        "auctionVenue": "",
-        "eoiClosingDate": "",
-        "availableDate": "",
-        "onMarketDate": "",
-        "expectedOnMarketDate": "",
-        "leasedDate": "",
-        "bond": "",
-        "displayPrice": "$1630",
-        "soldDate": "",
-        "property": {
-          "id": "16",
-          "type": "Residential",
-          "category": "House",
-          "name": "",
-          "newConstruction": false,
-          "address": {
-            "streetAddress": "35 Ramond",
-            "levelNum": "",
-            "lotNum": "",
-            "unitNum": "",
-            "streetNum": "35",
-            "streetName": "",
-            "streetType": "",
-            "suburb": "Freshwater",
-            "state": "NSW",
-            "postcode": "2096",
-            "country": "Australia",
-            "region": "Northern Beaches",
-            "hideAddress": false
-          },
-          "location": {
-            "lat": "-33.7747612",
-            "long": "151.2817688"
-          },
-          "bedrooms": "2",
-          "bathrooms": "1",
-          "totalParking": "1",
-          "landArea": {
-            "value": "",
-            "unit": ""
-          },
-          "landSizeText": "",
-          "buildingArea": {
-            "value": "",
-            "unit": "sqm"
-          }
-        },
-        "mainHeadline": "2 BEDROOM CHARMER - 3 blocks back from the beach!",
-        "firstCreated": "",
-        "lastModified": "2019-04-17T16:01:25+10:00",
-        "links": {
-          "self": "https://sandbox1.agentboxcrm.com.au/admin/api/listings/12P0175?version=2"
-        },
-        "inspectionType": "",
-        "outgoings": {
-          "landTax": {
-            "value": "0",
-            "period": ""
-          },
-          "councilRates": {
-            "value": "0",
-            "period": ""
-          },
-          "waterRates": {
-            "value": "0",
-            "period": ""
-          },
-          "strataAdmin": {
-            "value": "0",
-            "period": ""
-          },
-          "strataSinking": {
-            "value": "0",
-            "period": ""
-          },
-          "strataTotal": {
-            "value": "0",
-            "period": "quarter"
-          },
-          "otherOutgoings": {
-            "value": "0",
-            "period": ""
-          },
-          "totalOutgoings": {
-            "value": "",
-            "period": "year"
-          }
-        }
-      },
-      {
-        "id": "15P0175",
-        "officeId": "1",
-        "officeName": "Agentbox Realty",
-        "type": "Lease",
-        "status": "Leased",
-        "marketingStatus": "Leased",
-        "hiddenListing": false,
-        "offMarketListing": false,
-        "method": "",
-        "webLink": "https://sandbox1.agentboxcrm.com.au/12P0175",
-        "listedDate": "",
-        "expiryDate": "",
-        "auctionDate": "",
-        "timezone": "",
-        "auctionVenue": "",
-        "eoiClosingDate": "",
-        "availableDate": "",
-        "onMarketDate": "",
-        "expectedOnMarketDate": "",
-        "leasedDate": "",
-        "bond": "",
-        "displayPrice": "$2630",
-        "soldDate": "",
-        "property": {
-          "id": "16",
-          "type": "Residential",
-          "category": "House",
-          "name": "",
-          "newConstruction": false,
-          "address": {
-            "streetAddress": "35 Lotust",
-            "levelNum": "",
-            "lotNum": "",
-            "unitNum": "",
-            "streetNum": "35",
-            "streetName": "",
-            "streetType": "",
-            "suburb": "Freshwater",
-            "state": "NSW",
-            "postcode": "2096",
-            "country": "Australia",
-            "region": "Northern Beaches",
-            "hideAddress": false
-          },
-          "location": {
-            "lat": "-33.7747612",
-            "long": "151.2817688"
-          },
-          "bedrooms": "2",
-          "bathrooms": "1",
-          "totalParking": "1",
-          "landArea": {
-            "value": "",
-            "unit": ""
-          },
-          "landSizeText": "",
-          "buildingArea": {
-            "value": "",
-            "unit": "sqm"
-          }
-        },
-        "mainHeadline": "2 BEDROOM CHARMER - 3 blocks back from the beach!",
-        "firstCreated": "",
-        "lastModified": "2019-04-17T16:01:25+10:00",
-        "links": {
-          "self": "https://sandbox1.agentboxcrm.com.au/admin/api/listings/12P0175?version=2"
-        },
-        "inspectionType": "",
-        "outgoings": {
-          "landTax": {
-            "value": "0",
-            "period": ""
-          },
-          "councilRates": {
-            "value": "0",
-            "period": ""
-          },
-          "waterRates": {
-            "value": "0",
-            "period": ""
-          },
-          "strataAdmin": {
-            "value": "0",
-            "period": ""
-          },
-          "strataSinking": {
-            "value": "0",
-            "period": ""
-          },
-          "strataTotal": {
-            "value": "0",
-            "period": "quarter"
-          },
-          "otherOutgoings": {
-            "value": "0",
-            "period": ""
-          },
-          "totalOutgoings": {
-            "value": "",
-            "period": "year"
-          }
-        }
-      },
-      {
-        "id": "17P0175",
-        "officeId": "1",
-        "officeName": "Agentbox Realty",
-        "type": "Lease",
-        "status": "Leased",
-        "marketingStatus": "Leased",
-        "hiddenListing": false,
-        "offMarketListing": false,
-        "method": "",
-        "webLink": "https://sandbox1.agentboxcrm.com.au/12P0175",
-        "listedDate": "",
-        "expiryDate": "",
-        "auctionDate": "",
-        "timezone": "",
-        "auctionVenue": "",
-        "eoiClosingDate": "",
-        "availableDate": "",
-        "onMarketDate": "",
-        "expectedOnMarketDate": "",
-        "leasedDate": "",
-        "bond": "",
-        "displayPrice": "$1230",
-        "soldDate": "",
-        "property": {
-          "id": "16",
-          "type": "Residential",
-          "category": "House",
-          "name": "",
-          "newConstruction": false,
-          "address": {
-            "streetAddress": "35 Lala land",
-            "levelNum": "",
-            "lotNum": "",
-            "unitNum": "",
-            "streetNum": "35",
-            "streetName": "",
-            "streetType": "",
-            "suburb": "Freshwater",
-            "state": "NSW",
-            "postcode": "2096",
-            "country": "Australia",
-            "region": "Northern Beaches",
-            "hideAddress": false
-          },
-          "location": {
-            "lat": "-33.7747612",
-            "long": "151.2817688"
-          },
-          "bedrooms": "2",
-          "bathrooms": "1",
-          "totalParking": "1",
-          "landArea": {
-            "value": "",
-            "unit": ""
-          },
-          "landSizeText": "",
-          "buildingArea": {
-            "value": "",
-            "unit": "sqm"
-          }
-        },
-        "mainHeadline": "2 BEDROOM CHARMER - 3 blocks back from the beach!",
-        "firstCreated": "",
-        "lastModified": "2019-04-17T16:01:25+10:00",
-        "links": {
-          "self": "https://sandbox1.agentboxcrm.com.au/admin/api/listings/12P0175?version=2"
-        },
-        "inspectionType": "",
-        "outgoings": {
-          "landTax": {
-            "value": "0",
-            "period": ""
-          },
-          "councilRates": {
-            "value": "0",
-            "period": ""
-          },
-          "waterRates": {
-            "value": "0",
-            "period": ""
-          },
-          "strataAdmin": {
-            "value": "0",
-            "period": ""
-          },
-          "strataSinking": {
-            "value": "0",
-            "period": ""
-          },
-          "strataTotal": {
-            "value": "0",
-            "period": "quarter"
-          },
-          "otherOutgoings": {
-            "value": "0",
-            "period": ""
-          },
-          "totalOutgoings": {
-            "value": "",
-            "period": "year"
-          }
-        }
-      }
-    ]
+      ]
+    }
   }
 }
