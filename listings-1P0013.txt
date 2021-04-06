@@ -1,0 +1,225 @@
+{
+  "response": {
+    "listing": {
+      "id": "1P0013",
+      "subOfficeListingId": "",
+      "officeId": "2",
+      "officeName": "Agentbox Realty - Eveleigh",
+      "type": "Sale",
+      "status": "Available",
+      "marketingStatus": "Available",
+      "hiddenListing": false,
+      "offMarketListing": false,
+      "projectListingNominated": false,
+      "webLink": "https://sandbox1.agentboxcrm.com.au/1P0013",
+      "authority": "Exclusive",
+      "method": "Private Treaty",
+      "listedDate": "2018-10-05",
+      "expiryDate": "2019-01-05",
+      "auctionDate": "",
+      "timezone": "",
+      "auctionVenue": "",
+      "eoiClosingDate": "",
+      "onMarketDate": "",
+      "displayPrice": "Price On Application",
+      "searchPrice": "4500000",
+      "listedPrice": {
+        "value": "4500000",
+        "gst": "not applicable"
+      },
+      "soldDate": "",
+      "soldPrice": "0",
+      "soldPriceConfidential": true,
+      "expectedOnMarketDate": "",
+      "inspectionType": "",
+      "inspectionDates": [],
+      "property": {
+        "id": "7",
+        "type": "Commercial",
+        "category": "Office",
+        "name": "",
+        "newConstruction": false,
+        "address": {
+          "streetAddress": "580-590 Princes Highway",
+          "levelNum": "",
+          "lotNum": "",
+          "unitNum": "",
+          "streetNum": "580-590",
+          "streetName": "Princes",
+          "streetType": "Highway",
+          "suburb": "St Peters",
+          "state": "NSW",
+          "postcode": "2044",
+          "country": "Australia",
+          "region": "Inner West",
+          "hideAddress": false
+        },
+        "location": {
+          "lat": "-33.91966629",
+          "long": "151.16900635"
+        },
+        "bedrooms": "0",
+        "bathrooms": "0",
+        "loungeRooms": "",
+        "toilets": "",
+        "studies": "",
+        "pools": "",
+        "garages": "",
+        "carPorts": "",
+        "carSpaces": "",
+        "totalParking": "0",
+        "landArea": {
+          "value": "1840",
+          "unit": "sqm"
+        },
+        "landSizeText": "",
+        "buildingArea": {
+          "value": "3306",
+          "unit": "sqm"
+        },
+        "externalArea": {
+          "value": "",
+          "unit": "sqm"
+        },
+        "frontage": {
+          "value": "36",
+          "unit": "m"
+        },
+        "aspect": "",
+        "yearBuilt": "",
+        "yearRenovated": "",
+        "construction": "",
+        "condition": "",
+        "energyRating": "",
+        "features": [],
+        "keyFeature": {
+          "name": "",
+          "value": ""
+        },
+        "legalDetails": {
+          "legalDescription": "",
+          "lot": "",
+          "depositedPlan": "",
+          "volume": "",
+          "folio": "",
+          "block": "",
+          "section": "",
+          "zoning": ""
+        }
+      },
+      "outgoings": {
+        "landTax": {
+          "value": "",
+          "period": "quarter"
+        },
+        "councilRates": {
+          "value": "",
+          "period": "quarter"
+        },
+        "waterRates": {
+          "value": "",
+          "period": "quarter"
+        },
+        "strataAdmin": {
+          "value": "",
+          "period": "quarter"
+        },
+        "strataSinking": {
+          "value": "",
+          "period": "quarter"
+        },
+        "strataTotal": {
+          "value": "0",
+          "period": "quarter"
+        },
+        "otherOutgoings": {
+          "value": "",
+          "period": "quarter"
+        },
+        "totalOutgoings": {
+          "value": "0",
+          "period": "year"
+        }
+      },
+      "appraisalDetails": {
+        "appraisalDate": "2018-08-21T09:15:00+10:00",
+        "presentationDate": "2018-09-05T12:00:00+10:00",
+        "source": "Prospecting Call",
+        "classification": "",
+        "conductedFor": "Vendor",
+        "reason": "Thinking of selling",
+        "motivationDetail": "Doing some market research and wanted an updated on price. Thinking of selling in the next month.",
+        "comments": "",
+        "salePrice": {
+          "value": "4650000",
+          "rangeFrom": "",
+          "rangeTo": ""
+        },
+        "lastSoldDate": "",
+        "lastSoldPrice": "",
+        "lastLeasedDate": "",
+        "lastLeasedPrice": {
+          "value": "",
+          "period": ""
+        }
+      },
+      "mainHeadline": "Landmark Building - Hwy Exposure",
+      "mainDescription": "Flexible opportunities exist with this three level building.\n\nThis 3,306sqm building benefits from a huge 36m frontage to the Princes Hwy, lift access to all levels and has recently been upgraded to provide a good standard of showroom, office and warehouse accommodation. The building also benefits from rear access via Talbot Street with undercover loading and off street parking.\n\nEach floor is approx. 1,102sqm and is self-contained which gives potential to lease separately.\n\nThe property is located approx. 200m north of IKEA superstore at Tempe and provides excellent road links from Princes Hwy, M5 Motorway, Railway Parade and Canal Road.",
+      "firstCreated": "2011-04-28T07:23:09+10:00",
+      "lastModified": "2020-07-21T15:19:16+10:00",
+      "relatedContacts": [
+        {
+          "role": "Vendor Solicitor",
+          "contact": {
+            "id": "38",
+            "type": "Business",
+            "status": "Active",
+            "title": "",
+            "firstName": "David",
+            "lastName": "Kim",
+            "jobTitle": "",
+            "website": "",
+            "salutation": "David",
+            "customSalutation": "David",
+            "companyName": "C Kim & Turner Lawyers",
+            "email": "dk@bigpond.net.au",
+            "mobile": "",
+            "homePhone": "",
+            "workPhone": "02 9100 1234",
+            "firstCreated": "2018-03-12T14:56:41+11:00",
+            "lastModified": "2018-09-13T08:55:05+10:00",
+            "links": {
+              "self": "https://sandbox1.agentboxcrm.com.au/admin/api/contacts/38?version=2"
+            }
+          }
+        },
+        {
+          "role": "Vendor",
+          "contact": {
+            "id": "104",
+            "type": "Person",
+            "status": "Active",
+            "title": "",
+            "firstName": "James",
+            "lastName": "Barnett",
+            "jobTitle": "",
+            "website": "",
+            "salutation": "James",
+            "customSalutation": "",
+            "companyName": "",
+            "email": "jamesbarnett@gmail.com",
+            "mobile": "0400 194 706",
+            "homePhone": "",
+            "workPhone": "",
+            "firstCreated": "2018-03-13T18:10:31+11:00",
+            "lastModified": "2020-09-07T17:17:58+10:00",
+            "links": {
+              "self": "https://sandbox1.agentboxcrm.com.au/admin/api/contacts/104?version=2"
+            }
+          }
+        }
+      ],
+      "statusComment": ""
+    }
+  }
+}

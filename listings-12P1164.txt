@@ -1,0 +1,233 @@
+{
+  "response": {
+    "listing": {
+      "id": "12P1164",
+      "subOfficeListingId": "",
+      "officeId": "1",
+      "officeName": "Agentbox Realty",
+      "type": "Sale",
+      "status": "Available",
+      "marketingStatus": "Available",
+      "hiddenListing": false,
+      "offMarketListing": false,
+      "projectListingNominated": false,
+      "webLink": "https://trainingroom.agentboxcrm.com.au/admin/printgen/listings-1073-5-0",
+      "authority": "Exclusive",
+      "method": "Private Treaty",
+      "listedDate": "2018-10-18",
+      "expiryDate": "2019-01-19",
+      "auctionDate": "",
+      "timezone": "",
+      "auctionVenue": "",
+      "eoiClosingDate": "",
+      "onMarketDate": "2011-03-08T13:25:44+11:00",
+      "displayPrice": "Expressions of Interest",
+      "searchPrice": "123000000",
+      "listedPrice": {
+        "value": "123000000"
+      },
+      "soldDate": "",
+      "soldPrice": "0",
+      "soldPriceConfidential": true,
+      "expectedOnMarketDate": "",
+      "inspectionType": "Open by Appointment",
+      "inspectionDates": [],
+      "property": {
+        "id": "70",
+        "type": "Residential",
+        "category": "Apartment",
+        "name": "",
+        "newConstruction": true,
+        "address": {
+          "streetAddress": "2/92 Bower Street",
+          "levelNum": "",
+          "lotNum": "",
+          "unitNum": "2",
+          "streetNum": "92",
+          "streetName": "Bower",
+          "streetType": "Street",
+          "suburb": "Manly",
+          "state": "NSW",
+          "postcode": "2095",
+          "country": "Australia",
+          "region": "Northern Beaches",
+          "hideAddress": false
+        },
+        "location": {
+          "lat": "-33.80122375",
+          "long": "151.29347229"
+        },
+        "bedrooms": "4",
+        "bathrooms": "3",
+        "loungeRooms": "",
+        "toilets": "",
+        "studies": "",
+        "pools": "",
+        "garages": "2",
+        "carPorts": "",
+        "carSpaces": "",
+        "totalParking": "2",
+        "landArea": {
+          "value": "",
+          "unit": ""
+        },
+        "landSizeText": "",
+        "buildingArea": {
+          "value": "",
+          "unit": "sqm"
+        },
+        "externalArea": {
+          "value": "",
+          "unit": "sqm"
+        },
+        "frontage": {
+          "value": "",
+          "unit": "m"
+        },
+        "aspect": "",
+        "yearBuilt": "2015",
+        "yearRenovated": "2017",
+        "construction": "",
+        "condition": "",
+        "energyRating": "",
+        "features": [
+          "Air Conditioning",
+          "Built-In Wardrobes",
+          "Pool",
+          "Open Fire Place",
+          "Pets Allowed",
+          "Ensuite",
+          "Water Views",
+          "Beach Front"
+        ],
+        "keyFeature": {
+          "name": "",
+          "value": ""
+        },
+        "legalDetails": {
+          "legalDescription": "Legal Description Test",
+          "lot": "",
+          "depositedPlan": "",
+          "volume": "",
+          "folio": "",
+          "block": "",
+          "section": "",
+          "zoning": ""
+        }
+      },
+      "outgoings": {
+        "landTax": {
+          "value": "",
+          "period": "quarter"
+        },
+        "councilRates": {
+          "value": "625.00",
+          "period": "quarter"
+        },
+        "waterRates": {
+          "value": "171.03",
+          "period": "quarter"
+        },
+        "strataAdmin": {
+          "value": "",
+          "period": "quarter"
+        },
+        "strataSinking": {
+          "value": "",
+          "period": "quarter"
+        },
+        "strataTotal": {
+          "value": "0",
+          "period": "quarter"
+        },
+        "otherOutgoings": {
+          "value": "",
+          "period": "quarter"
+        },
+        "totalOutgoings": {
+          "value": "3184.12",
+          "period": "year"
+        }
+      },
+      "appraisalDetails": {
+        "appraisalDate": "2018-10-02T14:00:00+10:00",
+        "presentationDate": "2018-10-06T17:00:00+10:00",
+        "source": "",
+        "classification": "",
+        "conductedFor": "Landlord",
+        "reason": "",
+        "motivationDetail": "",
+        "comments": "",
+        "salePrice": {
+          "value": "1500000",
+          "rangeFrom": "1450000",
+          "rangeTo": "1550000"
+        },
+        "lastSoldDate": "",
+        "lastSoldPrice": "",
+        "lastLeasedDate": "",
+        "lastLeasedPrice": {
+          "value": "",
+          "period": ""
+        }
+      },
+      "mainHeadline": "World Class Waterfront Apartment",
+      "mainDescription": "A showcase of exclusive waterfront living in a world class location, this deluxe executive apartment encompassing the entire floor is defined by intimate ocean views across the azure shallows of Fairy Bower beach to the Central Coast.  One of three on an architecturally designed block with direct access to the sand, it presents state-of-the-art open plan interiors flowing to a huge entertaining deck bathed in north easterly light, 10 minute's walk to Manly's heart.\n\nRecycled ironbark floors sweep into a large lounge with an oversized translucent door and internal winter garden flanked by glass bi-fold doors.  Past a bright sitting and dining area is the meticulously finished Poliform Vareena kitchen schemed in Italian marble, stainless steel and Smeg appliances.  The enormous living area with teak and sandstone detail features a Jetmaster gas fireplace.  Further on are two sumptuous bedrooms with honed limestone ensuites including the master with ocean views and a walk through robe, a stunning third bedroom with built-ins and a fourth bedroom leading to the honed limestone bathroom.",
+      "firstCreated": "2011-02-18T10:32:01+11:00",
+      "lastModified": "2020-09-07T16:55:31+10:00",
+      "relatedContacts": [
+        {
+          "role": "Vendor",
+          "contact": {
+            "id": "23",
+            "type": "Person",
+            "status": "Active",
+            "title": "",
+            "firstName": "Justin",
+            "lastName": "Ray",
+            "jobTitle": "",
+            "website": "",
+            "salutation": "Justin",
+            "customSalutation": "Justin",
+            "companyName": "",
+            "email": "jrayk@studiopress.com",
+            "mobile": "0456 987 698",
+            "homePhone": "",
+            "workPhone": "",
+            "firstCreated": "2018-03-12T14:47:50+11:00",
+            "lastModified": "2021-02-23T12:44:03+11:00",
+            "links": {
+              "self": "https://sandbox1.agentboxcrm.com.au/admin/api/contacts/23?version=2"
+            }
+          }
+        },
+        {
+          "role": "Vendor Solicitor",
+          "contact": {
+            "id": "1123",
+            "type": "Business",
+            "status": "Archived",
+            "title": "",
+            "firstName": "Rob",
+            "lastName": "Rigg",
+            "jobTitle": "",
+            "website": "",
+            "salutation": "Rob",
+            "customSalutation": "",
+            "companyName": "Rigg Conveyancing",
+            "email": "",
+            "mobile": "",
+            "homePhone": "",
+            "workPhone": "02 9898 7799",
+            "firstCreated": "2018-11-08T09:44:22+11:00",
+            "lastModified": "2019-04-18T16:34:12+10:00",
+            "links": {
+              "self": "https://sandbox1.agentboxcrm.com.au/admin/api/contacts/1123?version=2"
+            }
+          }
+        }
+      ],
+      "statusComment": ""
+    }
+  }
+}

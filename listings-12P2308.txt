@@ -1,0 +1,230 @@
+{
+  "response": {
+    "listing": {
+      "id": "12P2308",
+      "subOfficeListingId": "",
+      "officeId": "4",
+      "officeName": "Agentbox Realty - Newtown",
+      "type": "Sale",
+      "status": "Available",
+      "marketingStatus": "Available",
+      "hiddenListing": false,
+      "offMarketListing": false,
+      "projectListingNominated": false,
+      "webLink": "https://sandbox1.agentboxcrm.com.au/12P2308",
+      "authority": "Exclusive",
+      "method": "Private Treaty",
+      "listedDate": "2018-10-18",
+      "expiryDate": "2019-01-18",
+      "auctionDate": "",
+      "timezone": "",
+      "auctionVenue": "",
+      "eoiClosingDate": "",
+      "onMarketDate": "2011-06-29T14:59:03+10:00",
+      "displayPrice": "Offers Over $1,100,000",
+      "searchPrice": "1000000",
+      "listedPrice": {
+        "value": "1000000"
+      },
+      "soldDate": "",
+      "soldPrice": "0",
+      "soldPriceConfidential": true,
+      "expectedOnMarketDate": "",
+      "inspectionType": "Or By Appointment",
+      "inspectionDates": [],
+      "property": {
+        "id": "75",
+        "type": "Residential",
+        "category": "Apartment",
+        "name": "",
+        "newConstruction": false,
+        "address": {
+          "streetAddress": "6/1a Greycliffe Street",
+          "levelNum": "",
+          "lotNum": "",
+          "unitNum": "6",
+          "streetNum": "1a",
+          "streetName": "Greycliffe",
+          "streetType": "Street",
+          "suburb": "Queenscliff",
+          "state": "NSW",
+          "postcode": "2096",
+          "country": "Australia",
+          "region": "Northern Beaches",
+          "hideAddress": false
+        },
+        "location": {
+          "lat": "-33.78599548",
+          "long": "151.28869629"
+        },
+        "bedrooms": "2",
+        "bathrooms": "1",
+        "loungeRooms": "",
+        "toilets": "",
+        "studies": "",
+        "pools": "",
+        "garages": "",
+        "carPorts": "",
+        "carSpaces": "",
+        "totalParking": "0",
+        "landArea": {
+          "value": "",
+          "unit": ""
+        },
+        "landSizeText": "",
+        "buildingArea": {
+          "value": "",
+          "unit": "sqm"
+        },
+        "externalArea": {
+          "value": "",
+          "unit": "sqm"
+        },
+        "frontage": {
+          "value": "",
+          "unit": "m"
+        },
+        "aspect": "",
+        "yearBuilt": "",
+        "yearRenovated": "",
+        "construction": "",
+        "condition": "",
+        "energyRating": "",
+        "features": [
+          "Heating",
+          "Spa",
+          "Intercom",
+          "Water Views",
+          "Ocean Views"
+        ],
+        "keyFeature": {
+          "name": "",
+          "value": ""
+        },
+        "legalDetails": {
+          "legalDescription": "",
+          "lot": "",
+          "depositedPlan": "",
+          "volume": "",
+          "folio": "",
+          "block": "",
+          "section": "",
+          "zoning": ""
+        }
+      },
+      "outgoings": {
+        "landTax": {
+          "value": "",
+          "period": "quarter"
+        },
+        "councilRates": {
+          "value": "",
+          "period": "quarter"
+        },
+        "waterRates": {
+          "value": "",
+          "period": "quarter"
+        },
+        "strataAdmin": {
+          "value": "",
+          "period": "quarter"
+        },
+        "strataSinking": {
+          "value": "",
+          "period": "quarter"
+        },
+        "strataTotal": {
+          "value": "0",
+          "period": "quarter"
+        },
+        "otherOutgoings": {
+          "value": "",
+          "period": "quarter"
+        },
+        "totalOutgoings": {
+          "value": "0",
+          "period": "year"
+        }
+      },
+      "appraisalDetails": {
+        "appraisalDate": "2018-10-24T10:00:00+11:00",
+        "presentationDate": "2019-01-24T15:00:00+11:00",
+        "source": "Internet",
+        "classification": "",
+        "conductedFor": "Landlord",
+        "reason": "Thinking of selling",
+        "motivationDetail": "",
+        "comments": "",
+        "salePrice": {
+          "value": "1100000",
+          "rangeFrom": "930000",
+          "rangeTo": "1000000"
+        },
+        "lastSoldDate": "",
+        "lastSoldPrice": "",
+        "lastLeasedDate": "",
+        "lastLeasedPrice": {
+          "value": "",
+          "period": ""
+        }
+      },
+      "mainHeadline": "Manly Beachfront Position",
+      "mainDescription": "Share your breakfast with the dolphins and combine your whale watching with a wine from this absolute beachfront position at Manly's northern tip. With breathtaking ocean views, this chic executive apartment also offers an entertainers balcony, is footsteps from the waves and a flat 10mins stroll to Manly.\n\nSpacious living and dining area opens to a large balcony, sleek Corian kitchen with breakfast bar, bathroom with heated floors & towel rails plus \"couples\" shower and bath with water view. Watch the surfers from the King Size Main bedroom, generous second bedroom and substantial internal storage\n\nOn the first floor of a beachfront block with 2 residents gardens, keyless entry, video intercom, bamboo floors, high ceilings, internal laundry, lockup storage and an extremely rare property boundary right to the sand.",
+      "firstCreated": "2011-04-11T10:06:30+10:00",
+      "lastModified": "2020-07-22T15:29:20+10:00",
+      "relatedContacts": [
+        {
+          "role": "Vendor",
+          "contact": {
+            "id": "49",
+            "type": "Person",
+            "status": "Active",
+            "title": "",
+            "firstName": "Sophie",
+            "lastName": "Moss",
+            "jobTitle": "",
+            "website": "",
+            "salutation": "Sophie",
+            "customSalutation": "Sophie",
+            "companyName": "",
+            "email": "smoss@hotmail.com",
+            "mobile": "0401 236 587",
+            "homePhone": "",
+            "workPhone": "",
+            "firstCreated": "2018-03-13T17:43:15+11:00",
+            "lastModified": "2020-11-18T14:53:16+11:00",
+            "links": {
+              "self": "https://sandbox1.agentboxcrm.com.au/admin/api/contacts/49?version=2"
+            }
+          }
+        },
+        {
+          "role": "Prospective Buyer",
+          "contact": {
+            "id": "1292",
+            "type": "Person",
+            "status": "Archived",
+            "title": "",
+            "firstName": "Heidi ",
+            "lastName": "Bourne",
+            "jobTitle": "",
+            "website": "",
+            "salutation": "Heidi ",
+            "customSalutation": "",
+            "companyName": "",
+            "email": "",
+            "mobile": "0400 000 009",
+            "homePhone": "",
+            "workPhone": "",
+            "firstCreated": "2019-05-07T10:00:00+10:00",
+            "lastModified": "2019-05-20T16:29:31+10:00",
+            "links": {
+              "self": "https://sandbox1.agentboxcrm.com.au/admin/api/contacts/1292?version=2"
+            }
+          }
+        }
+      ],
+      "statusComment": ""
+    }
+  }
+}
