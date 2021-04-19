@@ -1,0 +1,51 @@
+{
+  "response": {
+    "office": {
+      "id": "2",
+      "name": "Agentbox Realty - Eveleigh",
+      "status": "Active",
+      "externalId": "",
+      "franchiseGroup": "",
+      "companyName": "",
+      "tradingName": "",
+      "address": {
+        "streetAddress": "4 Cornwallis Street",
+        "suburb": "Eveleigh",
+        "state": "NSW",
+        "postcode": "2015",
+        "country": ""
+      },
+      "postalAddress": {
+        "streetAddress": "4 Cornwallis Street",
+        "suburb": "Eveleigh",
+        "state": "NSW",
+        "postcode": "2015",
+        "country": ""
+      },
+      "location": {
+        "lat": "-27.94479752",
+        "long": "153.40982056"
+      },
+      "website": "sandbox1.agentboxcrm.com.au",
+      "email": "eveleigh@agentbox.com.au",
+      "phone": "02 9856 7563",
+      "phone2": "",
+      "fax": "02 9873 7653",
+      "mobile": "0456 784 434",
+      "abn": "11 222 112 142",
+      "licensee": "",
+      "licenceNo": "",
+      "corporateLicenceNo": "",
+      "principalName": "",
+      "principalPhone": "",
+      "principalEmail": "",
+      "profile": "",
+      "externalLinks": [],
+      "timezone": "Australia/Sydney",
+      "lastModified": "2020-04-09T08:27:17+10:00",
+      "links": {
+        "staffMembers": "https://sandbox1.agentboxcrm.com.au/admin/api/staff?version=2&filter[officeId]=2"
+      }
+    }
+  }
+}

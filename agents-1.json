@@ -1,0 +1,38 @@
+{
+  "response": {
+    "staffMember": {
+      "id": "1stf0001",
+      "status": "Active",
+      "officeId": "1",
+      "officeName": "Agentbox Realty",
+      "externalMemberId": "",
+      "firstName": "Office",
+      "lastName": "Admin",
+      "role": "Principal",
+      "jobTitle": "",
+      "qualification": "",
+      "email": "oa@sandbox1.agentboxcrm.com.au",
+      "mobile": "123321123",
+      "phone": "02 8116 9123",
+      "profile": "",
+      "profileVideo": "",
+      "externalLinks": [],
+      "awards": "",
+      "homeAddress": "",
+      "employeeType": "Employee",
+      "companyName": "",
+      "startDate": "",
+      "dateOfBirth": "",
+      "licenceNumber": "",
+      "licenceExpiryDate": "",
+      "corporateLicenceNumber": "",
+      "corporateLicenceExpiryDate": "",
+      "hideMobileOnWeb": false,
+      "webDisplay": [],
+      "teams": [],
+      "specialistAreas": [],
+      "firstCreated": "",
+      "lastModified": "2019-06-13T18:22:11+10:00"
+    }
+  }
+}

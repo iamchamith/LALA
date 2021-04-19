@@ -109,7 +109,7 @@
                   "staffMember":{
                      "id":"1stf0005",
                      "status":"Active",
-                     "officeId":"4",
+                     "officeId":"1",
                      "officeName":"Agentbox Realty - Newtown",
                      "externalMemberId":"1",
                      "firstName":"Ben",
@@ -247,7 +247,7 @@
          },
          {
             "id":"12P2308",
-            "officeId":"4",
+            "officeId":"1",
             "officeName":"Agentbox Realty - Newtown",
             "type":"Sale",
             "status":"Available",
@@ -267,7 +267,7 @@
             "displayPrice":"Offers Over $1,100,000",
             "soldDate":"",
             "inspectionDates":[
-               
+                "2021-04-06 3:00pm"
             ],
             "property":{
                "id":"75",
@@ -350,7 +350,7 @@
                   "staffMember":{
                      "id":"1stf0006",
                      "status":"Active",
-                     "officeId":"4",
+                     "officeId":"1",
                      "officeName":"Agentbox Realty - Newtown",
                      "externalMemberId":"1",
                      "firstName":"Richard",
@@ -465,7 +465,7 @@
          },
          {
             "id":"1P0013",
-            "officeId":"2",
+            "officeId":"1",
             "officeName":"Agentbox Realty - Eveleigh",
             "type":"Sale",
             "status":"Available",
@@ -568,7 +568,7 @@
                   "staffMember":{
                      "id":"1stf0006",
                      "status":"Active",
-                     "officeId":"4",
+                     "officeId":"1",
                      "officeName":"Agentbox Realty - Newtown",
                      "externalMemberId":"1",
                      "firstName":"Richard",
@@ -591,7 +591,7 @@
                   "staffMember":{
                      "id":"1stf0006",
                      "status":"Active",
-                     "officeId":"4",
+                     "officeId":"1",
                      "officeName":"Agentbox Realty - Newtown",
                      "externalMemberId":"1",
                      "firstName":"Richard",
