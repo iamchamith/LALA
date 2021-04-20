@@ -177,7 +177,7 @@
       "lastModified": "2020-09-07T16:55:31+10:00",
       "relatedContacts": [
         {
-          "role": "Vendor",
+          "role": "Buyer",
           "contact": {
             "id": "23",
             "type": "Person",
@@ -191,7 +191,7 @@
             "customSalutation": "Justin",
             "companyName": "",
             "email": "jrayk@studiopress.com",
-            "mobile": "0456987698",
+            "mobile": "61480046553",
             "homePhone": "",
             "workPhone": "",
             "firstCreated": "2018-03-12T14:47:50+11:00",
@@ -202,7 +202,7 @@
           }
         },
         {
-          "role": "Vendor Solicitor",
+          "role": "Buyer",
           "contact": {
             "id": "1123",
             "type": "Business",
@@ -216,7 +216,7 @@
             "customSalutation": "",
             "companyName": "Rigg Conveyancing",
             "email": "",
-            "mobile": "0420194706",
+            "mobile": "61480046553",
             "homePhone": "",
             "workPhone": "02 9898 7799",
             "firstCreated": "2018-11-08T09:44:22+11:00",

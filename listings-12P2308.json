@@ -174,7 +174,7 @@
       "lastModified": "2020-07-22T15:29:20+10:00",
       "relatedContacts": [
         {
-          "role": "Vendor",
+          "role": "Buyer",
           "contact": {
             "id": "49",
             "type": "Person",
@@ -188,7 +188,7 @@
             "customSalutation": "Sophie",
             "companyName": "",
             "email": "smoss@hotmail.com",
-            "mobile": "0419194706",
+            "mobile": "61480046553",
             "homePhone": "",
             "workPhone": "",
             "firstCreated": "2018-03-13T17:43:15+11:00",
@@ -199,7 +199,7 @@
           }
         },
         {
-          "role": "Prospective Buyer",
+          "role": "Buyer",
           "contact": {
             "id": "1292",
             "type": "Person",
@@ -213,7 +213,7 @@
             "customSalutation": "",
             "companyName": "",
             "email": "",
-            "mobile": "0490194706",
+            "mobile": "61480046553",
             "homePhone": "",
             "workPhone": "",
             "firstCreated": "2019-05-07T10:00:00+10:00",

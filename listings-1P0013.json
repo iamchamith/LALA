@@ -169,7 +169,7 @@
       "lastModified": "2020-07-21T15:19:16+10:00",
       "relatedContacts": [
         {
-          "role": "Vendor Solicitor",
+          "role": "Buyer",
           "contact": {
             "id": "38",
             "type": "Business",
@@ -183,8 +183,8 @@
             "customSalutation": "David",
             "companyName": "C Kim & Turner Lawyers",
             "email": "dk@bigpond.net.au",
-            "mobile": "0410194706",
-            "homePhone": "0410194706",
+            "mobile": "61480046553",
+            "homePhone": "61480046553",
             "workPhone": "02 9100 1234",
             "firstCreated": "2018-03-12T14:56:41+11:00",
             "lastModified": "2018-09-13T08:55:05+10:00",
@@ -194,7 +194,7 @@
           }
         },
         {
-          "role": "Vendor",
+          "role": "Buyer",
           "contact": {
             "id": "104",
             "type": "Person",
@@ -208,7 +208,7 @@
             "customSalutation": "",
             "companyName": "",
             "email": "jamesbarnett@gmail.com",
-            "mobile": "0400194706",
+            "mobile": "61480046553",
             "homePhone": "",
             "workPhone": "",
             "firstCreated": "2018-03-13T18:10:31+11:00",
